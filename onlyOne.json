@@ -1,0 +1,64 @@
+{
+    "value": [
+        {
+            "ArticleId": 68,
+            "ArticlePermit": "830-L",
+            "ArticleStatusEng": "",
+            "ArticleStatusHeb": "",
+            "ArticleUrlEng": "http://www.hadashot-esi.org.il/Report_Detail_Eng.aspx?id=68&mag_id=108",
+            "ArticleUrlHeb": "http://www.hadashot-esi.org.il/Report_Detail.aspx?id=68&mag_id=108",
+            "HeadLineEng": "En-Nabi Yaqin",
+            "HeadLineHeb": "א-נבי יקין",
+            "PublishDate": "2004-07-09T15:55:00",
+            "Writters": {
+                "ArticleWritter": [
+                    {
+                        "WritterEmail": "",
+                        "WritterId": 41,
+                        "WritterLastNameEng": "Srukh",
+                        "WritterLastNameHeb": "שרוך",
+                        "WritterNameEng": "Ibrahim",
+                        "WritterNameHeb": "איברהים",
+                        "WritterTitleEng": "",
+                        "WritterTitleHeb": ""
+                    },
+                    {
+                        "WritterEmail": "peleg@israntique.org.il",
+                        "WritterId": 33,
+                        "WritterLastNameEng": "Peleg",
+                        "WritterLastNameHeb": "פלג",
+                        "WritterNameEng": "Yuval",
+                        "WritterNameHeb": "יובל",
+                        "WritterTitleEng": "",
+                        "WritterTitleHeb": ""
+                    }
+                ]
+            },
+            "SheetNameEng": "HA-ESI 116 (2004)"
+        },
+        {
+            "ArticleId": 5451,
+            "ArticlePermit": "A-5873",
+            "ArticleStatusEng": "Final Report",
+            "ArticleStatusHeb": "דוח סופי",
+            "ArticleUrlEng": "http://www.hadashot-esi.org.il/Report_Detail_Eng.aspx?id=5451&mag_id=120",
+            "ArticleUrlHeb": "http://www.hadashot-esi.org.il/Report_Detail.aspx?id=5451&mag_id=120",
+            "HeadLineEng": "Mezad Gozal",
+            "HeadLineHeb": "מצד גוזל",
+            "PublishDate": "2013-12-31T09:38:00",
+            "Writters": {
+                "ArticleWritter": {
+                    "WritterEmail": "svetlana@israntique.org.il",
+                    "WritterId": 205,
+                    "WritterLastNameEng": "Talis",
+                    "WritterLastNameHeb": "טליס",
+                    "WritterNameEng": "Svetlana",
+                    "WritterNameHeb": "סבטלנה",
+                    "WritterTitleEng": "",
+                    "WritterTitleHeb": ""
+                }
+            },
+            "SheetNameEng": "HA-ESI 125 (2013)"
+        }
+    ]
+}

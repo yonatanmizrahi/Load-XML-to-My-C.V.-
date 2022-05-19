@@ -1,0 +1,62 @@
+[
+    {
+        "ArticleId": 49,
+        "ArticlePermit": "3205-A",
+        "ArticleStatusEng": "Final Report",
+        "ArticleStatusHeb": "דוח סופי",
+        "ArticleUrlEng": "http://www.hadashot-esi.org.il/Report_Detail_Eng.aspx?id=49&mag_id=108",
+        "ArticleUrlHeb": "http://www.hadashot-esi.org.il/Report_Detail.aspx?id=49&mag_id=108",
+        "HeadLineEng": "Be’er Sheva‘",
+        "HeadLineHeb": "באר שבע",
+        "PublishDate": "2004-05-31T16:47:00",
+        "Writters": {
+            "ArticleWritter": {
+                "WritterEmail": "vlada@israntique.org.il",
+                "WritterId": 44,
+                "WritterLastNameEng": "Nikolsky",
+                "WritterLastNameHeb": "ניקולסקי",
+                "WritterNameEng": "Vlada",
+                "WritterNameHeb": "ולדה",
+                "WritterTitleEng": "",
+                "WritterTitleHeb": ""
+            }
+        },
+        "SheetNameEng": "HA-ESI 116 (2004)"
+    },
+    {
+        "ArticleId": 72,
+        "ArticlePermit": "12/00-G",
+        "ArticleStatusEng": "",
+        "ArticleStatusHeb": "",
+        "ArticleUrlEng": "http://www.hadashot-esi.org.il/Report_Detail_Eng.aspx?id=72&mag_id=108",
+        "ArticleUrlHeb": "http://www.hadashot-esi.org.il/Report_Detail.aspx?id=72&mag_id=108",
+        "HeadLineEng": "Be’erotayim",
+        "HeadLineHeb": "בארותיים",
+        "PublishDate": "2004-06-09T16:19:00",
+        "Writters": {
+            "ArticleWritter": [
+                {
+                    "WritterEmail": "",
+                    "WritterId": 59,
+                    "WritterLastNameEng": "Saidel",
+                    "WritterLastNameHeb": "זיידל",
+                    "WritterNameEng": "Benjamin Adam",
+                    "WritterNameHeb": "בנימין אדם",
+                    "WritterTitleEng": "",
+                    "WritterTitleHeb": ""
+                },
+                {
+                    "WritterEmail": "gini@israntique.org.il",
+                    "WritterId": 60,
+                    "WritterLastNameEng": "Erickson-Gini",
+                    "WritterLastNameHeb": "אריקסון-גיני",
+                    "WritterNameEng": "Tali",
+                    "WritterNameHeb": "טלי",
+                    "WritterTitleEng": "",
+                    "WritterTitleHeb": ""
+                }
+            ]
+        },
+        "SheetNameEng": "HA-ESI 116 (2004)"
+    }
+]
